@@ -1,0 +1,27 @@
+.distance {
+  margin: 5px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.parent {
+  margin: auto !important ;
+  width: 50%;
+  height: 40rem;
+  background-color: #daf5ff !important;
+  text-align: center;
+  color: darkcyan;
+}
+
+.borderline {
+  margin: auto !important ;
+  position: relative;
+  width: 70%;
+  height: 35rem;
+  border: 2px solid red;
+  text-align: center;
+  top: 40px;
+}
