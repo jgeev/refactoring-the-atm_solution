@@ -5,4 +5,4 @@
 ### This is mainly a test project for learning the onclick events and hiding and showing the deposit section
 ### Below is the UI
 
-<img src="Capture.jpg" height="150px" width="150px">
+<img src="Capture.JPG" height="150px" width="150px">
