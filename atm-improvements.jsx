@@ -100,4 +100,4 @@ const Account = () => {
   );
 };
 // ========================================
-ReactDOM.render(<Account />, document.getElementById("root"));
+ReactDOM.render(<Account />, document.getElementById("component"));
